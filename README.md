@@ -9,7 +9,7 @@ I'm an Aspiring React Developer. I want to learn and develop everything I can an
 
 🧠 I'm learning React.js and anything I fancy with it
 
-📫 Reach me out on my Email
+📫 Reach me out on my LinkedIn
 
 
 ## 🛠 Skills
