@@ -1,6 +1,6 @@
 
 # Hi, I'm Askari! 👋
-![Banner Here](https://media.discordapp.net/attachments/841292305977966602/1117449299597467779/0k6meqvps4h91.gif?width=1080&height=662)
+![Banner Here](https://tenor.com/view/mario-bros-bedroom-gamer-gif-6406956704320896880?width=1080&height=662)
 
 ## 🚀 About Me
 I'm an Aspiring React Developer. I want to learn and develop everything I can and perhaps have my own Tech business in distant future. I'd love to connect with you for connections are important.
