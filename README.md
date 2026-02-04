@@ -6,16 +6,6 @@ I’m not tied to any single stack. I want to **code, design, scale, fine-tune, 
 
 ---
 
-## 🧠 How I Work
-
-- 🚀 Focused on outcomes, not just outputs—impact > features  
-- 🔍 Detail-oriented, but never lose sight of the big picture  
-- 💡 Love systems thinking: modular, scalable, and future-proof by design  
-- 🌱 Always learning—hungry to explore new technologies, patterns, and ideas  
-- 🤝 Value clarity, curiosity, and collaboration  
-
----
-
 ## 🔧 Recent Tools & Tech
 
 <p align="center">
@@ -31,23 +21,6 @@ I’m not tied to any single stack. I want to **code, design, scale, fine-tune, 
 </p>
 
 > 🛠 These are tools I’ve worked with recently—but I’m stack-agnostic and quick to adapt.
-
----
-
-## 💬 What I Care About
-
-- 🧩 Building thoughtful, accessible interfaces  
-- 🛠 Architecting clean, maintainable systems  
-- 📈 Delivering real value to users and stakeholders  
-- 🤖 Exploring AI, automation, and emerging tech  
-- 🌍 Long-term, I aim to build products (or a venture) that solve real-world problems  
-
----
-
-## 🔄 Note on Projects
-
-If you come across any incomplete or work-in-progress projects here—don’t worry, they’re not abandoned.  
-🛠 I’m actively iterating on them as part of my process. I build in the open and improve as I go.
 
 ---
 
