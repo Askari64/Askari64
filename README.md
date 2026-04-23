@@ -18,7 +18,7 @@
 
 I'm a software engineer based in **Lucknow, India**, completing my MCA (Software Engineering / Cloud Computing) at Chandigarh University (graduating July 2026). I have 2.5+ years of professional experience shipping web applications, internal business platforms, and workflow automations across two organisations.
 
-At **IT Windsor** (Canada, remote), I contributed to an IoT Data Platform and delivered 8+ client websites end-to-end. At **Vision-Aid India** (US, remote), I built three internal systems that saved 2,000+ human hours and reduced operational costs by over ₹600,000.
+At **IT Windsor** (Canada, remote), I contributed to an IoT Data Platform and delivered 8+ client websites end-to-end. At **Vision-Aid** (India, remote), I built three internal systems that saved 2,000+ human hours and reduced operational costs by over ₹600,000.
 
 ```
 📍 Lucknow, India  •  Open to relocation  •  On-Site / Hybrid / Remote friendly
