@@ -147,17 +147,6 @@ Developed and maintained three interconnected internal systems used organisation
 
 A production-ready REST API covering the full backend lifecycle — JWT authentication with access/refresh token rotation and httpOnly cookies, Zod input validation, offset pagination with Prisma `$transaction`, PATCH partial-update patterns, and cascade-delete with pre-deletion integrity checks.
 
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Askari64&show_icons=true&theme=default&hide_border=true&title_color=0f62fe&icon_color=6929c4&text_color=161616&bg_color=ffffff&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Askari64&layout=compact&theme=default&hide_border=true&title_color=0f62fe&text_color=161616&bg_color=ffffff&langs_count=6" />
-
-</div>
 
 ---
 
