@@ -92,14 +92,14 @@ At **IT Windsor** (Canada, remote), I contributed to an IoT Data Platform and de
 
 ## Work experience
 
-### 🏢 Web Developer — IT Windsor, Canada *(Remote · Oct 2023 – Aug 2025)*
+### 🏢 Web Developer | Working Student — IT Windsor, Canada *(Remote · Oct 2023 – Aug 2025)*
 
 - Contributed to an **IoT Data Platform** — designed and built the multi-dashboard feature enabling users to create independent dashboards with configurable drag-and-drop widgets for real-time IoT data visualisation. Owned the widget component architecture and dashboard configuration layer end-to-end.
 - Engineered and shipped **8+ responsive, SEO-optimised** business websites and web apps using React, TypeScript, Tailwind CSS, and WordPress — from requirements and architecture through testing, deployment, and handoff.
 - Achieved up to **70% reduction in page load times** through image optimisation, lazy loading, and code refactoring, directly improving Core Web Vitals and search rankings.
 - Conducted functional, cross-browser, and mobile responsiveness testing across all deliverables.
 
-### 🏢 Software Developer & Automations Engineer — Vision-Aid, India *(Remote · Dec 2022 – Sep 2024)*
+### 🏢 Software Developer & Automations Engineer | Working Student — Vision-Aid, India *(Remote · Dec 2022 – Sep 2024)*
 
 - Owned and developed the **Employee Time Entry System** — an org-wide Power Apps application for logging and managing employee hours, backed by SharePoint Online with structured validation, role-based access, and audit-ready reporting.
 - Built the **internal Data Repository System** — a centralised Power Apps platform replacing fragmented manual records with searchable, structured storage and controlled access across the organisation.
