@@ -113,7 +113,7 @@ At **IT Windsor** (Canada, remote), I contributed to an IoT Data Platform and de
 ### 🔷 DocVault *(WIP — MCA Final Year Project)*
 > Multi-tenant SaaS document management platform
 
-`React.js` `Node.js` `Express` `PostgreSQL` `Prisma ORM` `AWS S3` `Redis` `Clerk` `Razorpay`
+`React.js` `Node.js` `Express` `PostgreSQL` `Prisma ORM` `AWS S3`  `Clerk` 
 
 Designing a secure multi-tenant SaaS platform for organisations to store, share, version-control, and manage documents in isolated environments on shared cloud infrastructure.
 
