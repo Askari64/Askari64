@@ -19,7 +19,7 @@ TypeScript • JavaScript • React • Next.js • Node.js • Express.js • P
 ## Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/askaririzvi)
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1eIKdD5jJgzBriqPIpU_pjYyiBE6EdqQW/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1eIKdD5jJgzBriqPIpU_pjYyiBE6EdqQW/view?usp=sharing)
 - 📧 askarir64@gmail.com
 
 
