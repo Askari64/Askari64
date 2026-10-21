@@ -2,8 +2,6 @@
 
 # Askari Rizvi
 
-### Dreams don't work unless you do
-
 Full-stack developer leaning toward backend. I enjoy building useful APIs and data-heavy apps, and making the pieces work well together.
 
 [![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1BqgdQj_UtO8iSaZrAqTpllvc1tmA7qrR/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=flat&logo=firefoxbrowser&logoColor=white)](https://askaririzvi.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/askaririzvi)
